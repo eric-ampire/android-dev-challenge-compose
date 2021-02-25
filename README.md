@@ -8,6 +8,7 @@
 ## :scroll: Description
 
 Dogs Life Application
+
 <!--- Describe your app in one or two sentences -->
 
 
