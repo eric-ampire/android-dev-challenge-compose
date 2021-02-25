@@ -6,12 +6,15 @@
 
 
 ## :scroll: Description
+
+Dogs Life Application
 <!--- Describe your app in one or two sentences -->
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+I'm proud of the fact that I've learned jetpack composes in a very short period of time and I've started testing it since the first version.
 
 
 ## :camera_flash: Screenshots
